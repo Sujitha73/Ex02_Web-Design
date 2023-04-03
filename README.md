@@ -20,13 +20,14 @@
   
 ## CODE
 
-```<html>
+```
+<html>
 <head>
     <title> Saveetha Engineering College </title>
     <body bgcolor="Cyan" text ="black"></body>
     <h1 text align="center">Saveetha Engineering College</h1>
     <hr bold border="px" color="red">
-    <h2><ol type="A">
+    <ol type="A">
         <li>Agricultural Engineering</li>
         <li>Computer Science & Engineering</li>
         <li>Information & Technology</li>
@@ -42,7 +43,8 @@
         <li>Mechanical Engineering</li>
         </ol>
         </head>
-        </html>```
+        </html>
+        ```
         
 
 
