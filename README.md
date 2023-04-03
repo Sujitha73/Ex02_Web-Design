@@ -20,8 +20,7 @@
   
 ## CODE
 
-```
-<html>
+```<html>
 <head>
     <title> Saveetha Engineering College </title>
     <body bgcolor="Cyan" text ="black"></body>
@@ -32,8 +31,7 @@
         <li>Computer Science & Engineering</li>
         <li>Information & Technology</li>
         <li>Data Science</li>
-   
-    <ul type="disc">
+       <ul type="disc">
         <li>Artificial Intelligence - Machine Learning </li>
         <li>Artificial Intelligene - Data Science</li>
         <li>Internet Of Things</li>
