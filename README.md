@@ -19,7 +19,8 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-```<html>
+```
+<html>
 <head>
     <title> Saveetha Engineering College </title>
     <body bgcolor="Cyan" text ="black"></body>
