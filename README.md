@@ -48,7 +48,7 @@
 
 
 ## OUTPUT
-![Sujitha S web 2 (2)](https://user-images.githubusercontent.com/129753050/229506231-d920304f-afc5-4c3d-a275-ad5baf3f8ece.png)
+![web 2](https://user-images.githubusercontent.com/129753050/229548976-2c6344aa-2ffe-4ebe-8081-c542fcb929a0.jpeg)
 
 
 ## RESULT
